@@ -109,3 +109,4 @@ class Retriever:
 
         sim.sort(key=lambda x: x[1], reverse=True)
         return [doc_id for doc_id, _ in sim[:topK]]
+
