@@ -6,3 +6,4 @@ venv/
 .vscode/
 LLM_scratch/LLMs-from-scratch/
 ML_scratch/nn-zero-to-hero/
+numpy/numpy-100/
